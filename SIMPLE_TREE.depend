@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1480945551 source:c:\users\user\documents\программирование\вторая попытка\simple_tree\main.cpp
+	<iostream>
+	<iomanip>
+	"tree.h"
+
+1480945551 c:\users\user\documents\программирование\вторая попытка\simple_tree\tree.h
+	"node.h"
+
+1480945594 c:\users\user\documents\программирование\вторая попытка\simple_tree\node.h
+	<iostream>
+
